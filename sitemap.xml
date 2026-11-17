@@ -1,185 +1,148 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
   <url>
-    <loc>./index.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>./articles/agentic-ai-autonomous-workflows-2025.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/about.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>./articles/quantum-computing-breakthrough-error-correction.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/contact.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>./articles/next-gen-local-llms-open-source-revolution.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/privacy.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>./articles/zero-trust-security-in-ai-driven-enterprises.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/terms.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>./articles/silicon-valley-ai-venture-funding-shifts.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/disclaimer.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.4</priority>
   </url>
   <url>
-    <loc>./articles/webassembly-and-edge-ai-redefining-software.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/neural-interface-wearables-spatial-computing.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/clean-energy-fusion-ai-data-center-power.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/synthetic-data-breakthroughs-model-training.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/ai-code-assistants-future-of-software-engineering.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/biometric-defenses-deepfake-identity-theft.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/humanoid-robotics-manufacturing-automation.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/multimodal-reasoning-vision-language-models.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./articles/neuromorphic-chips-brain-inspired-computing.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>./categories/index.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>./categories/artificial-intelligence.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/ai-tools.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/technology.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/artificial-intelligence.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/ai-tools.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/business-startups.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/software.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/cybersecurity.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/business-startups.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/future-technology.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/cybersecurity.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/gadgets.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/gadgets.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/software.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./categories/future-technology.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/categories/technology.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>./about.html</loc>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/agentic-ai-autonomous-workflows-2025.html</loc>
     <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>./contact.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/ai-code-assistants-future-of-software-engineering.html</loc>
+    <lastmod>2025-11-01</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>./privacy.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/biometric-defenses-deepfake-identity-theft.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>./disclaimer.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/clean-energy-fusion-ai-data-center-power.html</loc>
+    <lastmod>2025-11-03</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>./terms.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/humanoid-robotics-manufacturing-automation.html</loc>
+    <lastmod>2025-10-30</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>./search.html</loc>
-    <lastmod>2025-11-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/multimodal-reasoning-vision-language-models.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/neural-interface-wearables-spatial-computing.html</loc>
+    <lastmod>2025-11-04</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/neuromorphic-chips-brain-inspired-computing.html</loc>
+    <lastmod>2025-10-28</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/next-gen-local-llms-open-source-revolution.html</loc>
+    <lastmod>2025-11-08</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/quantum-computing-breakthrough-error-correction.html</loc>
+    <lastmod>2025-11-09</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/silicon-valley-ai-venture-funding-shifts.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/synthetic-data-breakthroughs-model-training.html</loc>
+    <lastmod>2025-11-02</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/webassembly-and-edge-ai-redefining-software.html</loc>
+    <lastmod>2025-11-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ahadh7865-cmyk.github.io/ai-tech-journali/articles/zero-trust-security-in-ai-driven-enterprises.html</loc>
+    <lastmod>2025-11-07</lastmod>
+    <priority>0.9</priority>
   </url>
 </urlset>
-

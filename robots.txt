@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
 
-# Canonical Sitemap URL
-Sitemap: sitemap.xml
+# Search-result pages add no indexable content
+Disallow: /search.html
+Disallow: /404.html
+
+Sitemap: https://ahadh7865-cmyk.github.io/ai-tech-journali/sitemap.xml
